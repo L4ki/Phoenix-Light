@@ -23,13 +23,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="2.5119812"
-     inkscape:cx="21.874645"
-     inkscape:cy="-29.977292"
+     inkscape:zoom="14.209912"
+     inkscape:cx="4.7311749"
+     inkscape:cy="49.193935"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -150,7 +150,7 @@
        d="m 7.0000091,19.999986 10.0000179,0 0,1.000014 -10.0000179,0 z m 3.0000049,-1.999998 3.999994,0 0,1.999983 -3.999994,0 z M 2,4.0000055 2,17.999973 l 19.999999,0 0,-13.9999675 z m 0.9999988,0.999999 18.0000012,0 0,9.9999725 -18.0000012,0 z"
        class="ColorScheme-Text" />
     <path
-       style="fill:#b48ead;fill-opacity:1;stroke:none"
+       style="fill:#466a96;fill-opacity:1;stroke:none"
        d="m 4,10 4,4 -4,0 z"
        id="rect3018"
        class="ColorScheme-Text" />
@@ -158,7 +158,7 @@
        class="ColorScheme-Text"
        id="path3028"
        d="M 20,10 16,6 20,6 z"
-       style="fill:#b48ead;fill-opacity:1;stroke:none" />
+       style="fill:#85577c;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="preferences-desktop-notification"
